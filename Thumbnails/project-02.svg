@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f6f3ee"/>
+  <rect x="96" y="96" width="1408" height="708" fill="#ffffff" stroke="#111214" stroke-width="10"/>
+  <rect x="96" y="96" width="1408" height="88" fill="#009c9a"/>
+  <text x="150" y="153" fill="#111214" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="900">PROJECT 02</text>
+  <text x="150" y="382" fill="#111214" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="900">G3 ROBOTICS</text>
+  <text x="150" y="480" fill="#111214" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="900">PROMO</text>
+  <text x="150" y="558" fill="#686f76" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700">Role: Interviewer, Editor</text>
+  <rect x="150" y="680" width="760" height="28" fill="#111214"/>
+  <rect x="150" y="732" width="510" height="28" fill="#e84832"/>
+</svg>

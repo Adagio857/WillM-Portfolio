@@ -18,13 +18,15 @@ Open `index.html` and replace:
 The site currently expects these local files:
 
 - `Videos/Main Video/Will Manley Sizzle Reel.mp4`
-- `Videos/Full Length Project 01/Narrative Edit.mp4`
-- `Videos/Full Length Project 02/Promotional Project.mp4`
-- `Videos/Full Length Project 03/Short Film.mp4`
+- `Videos/Full Length Project 01/Copy of Miyake_Hudson_GuardGreenspaceFilmmp4_1.mp4`
+- `Videos/Full Length Project 02/Copy of Finalcut_Promo_G3Robotics.mp4`
+- `Videos/Full Length Project 03/G3 Robotics Promo for Website.mp4`
 
 For GitHub Pages, export videos as `.mp4` using H.264 video and AAC audio. Keep each file under 100 MB so GitHub can accept it in the repository.
 
 The hero background is built with CSS, so the page does not require a background image.
+
+Custom SVG video thumbnails are stored in `Thumbnails/` and connected to each video with the `poster` attribute.
 
 ## Publish on GitHub Pages
 
