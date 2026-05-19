@@ -17,7 +17,7 @@ Open `index.html` and replace:
 
 The site currently expects these local files:
 
-- `Videos/Main Video/Will Manley Sizzle Reel.mp4`
+- `Videos/Main Video/wmsizzlereal.mp4`
 - `Videos/Full Length Project 01/Copy of Miyake_Hudson_GuardGreenspaceFilmmp4_1.mp4`
 - `Videos/Full Length Project 02/Copy of Finalcut_Promo_G3Robotics.mp4`
 - `Videos/Full Length Project 03/G3 Robotics Promo for Website.mp4`
