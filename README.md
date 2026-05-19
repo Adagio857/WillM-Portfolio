@@ -11,7 +11,7 @@ A static video portfolio designed for GitHub Pages. It includes:
 
 Open `index.html` and replace:
 
-- `your-email@example.com` with Will's preferred contact email
+- `willjama@icloud.com` with Will's preferred contact email if it changes
 - The project titles and role descriptions with Will's final project information
 - The local MP4 filenames in each `<source src="...">` if Will's exported files use different names
 
